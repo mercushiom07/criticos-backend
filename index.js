@@ -3,7 +3,12 @@ const cors = require('cors');
 const sqlite3 = require('sqlite3').verbose();
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    'https://criticos-frontend.vercel.app'
+  ]
+}));
 app.use(express.json());
 
 const db = new sqlite3.Database('./criticos.db');
