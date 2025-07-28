@@ -118,6 +118,13 @@ app.delete('/cables/:lcode', (req, res) => {
   });
 });
 
+app.delete('/cables', (req, res) => {
+  db.run('DELETE FROM cables', function (err) {
+    if (err) return res.status(500).json({ error: err.message });
+    res.json({ deleted: this.changes });
+  });
+});
+
 app.post('/cables', (req, res) => {
   const data = Array.isArray(req.body) ? req.body : [req.body];
   const stmt = db.prepare('INSERT OR REPLACE INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
@@ -165,6 +172,13 @@ app.delete('/disparos/:id', (req, res) => {
   });
 });
 
+app.delete('/disparos', (req, res) => {
+  db.run('DELETE FROM disparos', function (err) {
+    if (err) return res.status(500).json({ error: err.message });
+    res.json({ deleted: this.changes });
+  });
+});
+
 app.post('/disparos', (req, res) => {
   const data = Array.isArray(req.body) ? req.body : [req.body];
   const stmt = db.prepare('INSERT INTO disparos (LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
@@ -199,6 +213,13 @@ app.post('/historial', (req, res) => {
 
 app.delete('/historial/:id', (req, res) => {
   db.run('DELETE FROM historial WHERE id = ?', [req.params.id], function (err) {
+    if (err) return res.status(500).json({ error: err.message });
+    res.json({ deleted: this.changes });
+  });
+});
+
+app.delete('/historial', (req, res) => {
+  db.run('DELETE FROM historial', function (err) {
     if (err) return res.status(500).json({ error: err.message });
     res.json({ deleted: this.changes });
   });
