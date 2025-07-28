@@ -102,18 +102,6 @@ app.get('/cables', (req, res) => {
   });
 });
 
-app.post('/cables', (req, res) => {
-  const { LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO } = req.body;
-  db.run(
-    'INSERT INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
-    [LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO],
-    function (err) {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ id: this.lastID });
-    }
-  );
-});
-
 app.delete('/cables/:lcode', (req, res) => {
   db.run('DELETE FROM cables WHERE LCODE = ?', [req.params.lcode], function (err) {
     if (err) return res.status(500).json({ error: err.message });
@@ -146,18 +134,6 @@ app.get('/disparos', (req, res) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(rows);
   });
-});
-
-app.post('/disparos', (req, res) => {
-  const { LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS } = req.body;
-  db.run(
-    'INSERT INTO disparos (LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
-    [LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS],
-    function (err) {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ id: this.lastID });
-    }
-  );
 });
 
 app.put('/disparos/:id', (req, res) => {
@@ -200,18 +176,6 @@ app.get('/historial', (req, res) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(rows);
   });
-});
-
-app.post('/historial', (req, res) => {
-  const { LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS, GAFETE } = req.body;
-  db.run(
-    'INSERT INTO historial (LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS, GAFETE) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
-    [LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS, GAFETE],
-    function (err) {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ id: this.lastID });
-    }
-  );
 });
 
 app.delete('/historial/:id', (req, res) => {
