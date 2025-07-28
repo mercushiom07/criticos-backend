@@ -7,7 +7,7 @@ const jsonFile = 'datos.json';
 const tabla = 'disparos'; // O 'DISPAROS', 'HISTORIAL'
 
 const campos = [
-  'LCODE', 'CIRCUITO', 'COLOR', 'LINEA', 'MAQUINA_CORTE', 'RUTA_CORTE', 'DESTINO', 'VOLUMEN_DIARIO', 'MINIMO', 'MAXIMO'
+  'LCODE', 'CIRCUITO', 'COLOR', 'LINEA', 'MAQUINA_CORTE', 'RUTA_CORTE', 'DESTINO', 'VOLUMEN_DIARIO', 'MINIMO', 'MAXIMO', 'PIEZAS_RESTANTES', 'ESTATUS', 'FECHA'
   // Agrega o ajusta los campos según la tabla
 ];
 
