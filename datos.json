@@ -11,8 +11,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45853.461805555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 11:05",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -26,8 +27,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45853.31875,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/15/25 07:39",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -41,8 +43,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45853.004166666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 00:06",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -56,8 +59,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45852.677777777775,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 16:16",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -71,8 +75,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45852.59861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/14/25 14:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -86,8 +91,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 35,
-    "FECHA": 45852.57847222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/14/25 13:53",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -101,8 +107,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45852.30972222222,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:26",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -116,8 +123,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45852.30972222222,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:26",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -131,8 +139,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45852.30972222222,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:26",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -146,8 +155,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45852.30902777778,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:25",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -161,8 +171,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45852.29652777778,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:07",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -176,8 +187,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45852.29583333333,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/14/25 07:06",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -191,8 +203,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45849.46666666667,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/11/25 11:12",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV001",
@@ -206,8 +219,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45849.424305555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/11/25 10:11",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -221,8 +235,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45835.35555555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "06/27/25 08:32",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -236,8 +251,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45835.32430555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "06/27/25 07:47",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -251,8 +267,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45833.47222222222,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "06/25/25 11:20",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -266,8 +283,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45832.47708333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "06/24/25 11:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -281,8 +299,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45832.34583333333,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "06/24/25 08:18",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -296,8 +315,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45831.489583333336,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "06/23/25 11:45",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -311,8 +331,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45828.43819444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "06/20/25 10:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -326,8 +347,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45853.597916666666,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/15/25 14:21",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -341,8 +363,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45853.67291666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 16:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -356,8 +379,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45853.76111111111,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/15/25 18:16",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -371,8 +395,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45853.76527777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 18:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -386,8 +411,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 3,
-    "FECHA": 45853.96111111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 23:04",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -401,8 +427,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45853.98472222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/15/25 23:38",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV034",
@@ -416,8 +443,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45854.37222222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/16/25 08:56",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV015",
@@ -431,8 +459,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45854.39236111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/16/25 09:25",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -446,8 +475,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45854.84166666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/16/25 20:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA119",
@@ -461,8 +491,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45854.84305555555,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/16/25 20:14",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -476,8 +507,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45854.84305555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/16/25 20:14",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -491,8 +523,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 110,
-    "FECHA": 45854.84722222222,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/16/25 20:20",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -506,8 +539,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45854.84722222222,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/16/25 20:20",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -521,8 +555,9 @@
     "MAXIMO": 12,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45854.847916666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/16/25 20:21",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -536,8 +571,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45855.29791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 07:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -551,8 +587,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45855.29861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 07:10",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -566,8 +603,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45855.3,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 07:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -581,8 +619,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45855.54652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 13:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -596,8 +635,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 35,
-    "FECHA": 45855.55763888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 13:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -611,8 +651,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 3,
-    "FECHA": 45855.575,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 13:48",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -626,8 +667,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45855.80069444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/17/25 19:13",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -641,8 +683,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.299305555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 07:11",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -656,8 +699,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.3,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 07:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -671,8 +715,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.302777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 07:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -686,8 +731,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.302777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 07:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV012-013",
@@ -701,8 +747,9 @@
     "MAXIMO": 3,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 29,
-    "FECHA": 45856.30625,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/18/25 07:21",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -716,8 +763,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45856.30694444444,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/18/25 07:22",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -731,8 +779,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45856.46041666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 11:03",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -746,8 +795,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45856.461805555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 11:05",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -761,8 +811,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.50763888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 12:11",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV010-011",
@@ -776,8 +827,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45856.63680555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 15:17",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -791,8 +843,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45856.64027777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/18/25 15:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -806,8 +859,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45859.32430555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 07:47",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -821,8 +875,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 10,
-    "FECHA": 45859.39027777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 09:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -836,8 +891,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45859.399305555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 09:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV021-022",
@@ -851,8 +907,9 @@
     "MAXIMO": 5,
     "MINIMO": 5,
     "PIEZAS_RESTANTES": 126,
-    "FECHA": 45859.51875,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 12:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -866,8 +923,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45859.54791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 13:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -881,8 +939,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45859.64097222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 15:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -896,8 +955,9 @@
     "MAXIMO": 3,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 12,
-    "FECHA": 45859.743055555555,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/21/25 17:50",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -911,8 +971,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 7,
-    "FECHA": 45859.822222222225,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/21/25 19:44",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -926,8 +987,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45859.82430555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/21/25 19:47",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -941,8 +1003,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45859.83819444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 20:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -956,8 +1019,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 43,
-    "FECHA": 45859.83888888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 20:08",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -971,8 +1035,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45859.83888888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 20:08",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -986,8 +1051,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45859.92152777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 22:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -1001,8 +1067,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45859.96666666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/21/25 23:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1016,8 +1083,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.30138888889,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/22/25 07:14",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1031,8 +1099,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45860.302777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 07:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1046,8 +1115,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45860.33888888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:08",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1061,8 +1131,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 6,
-    "FECHA": 45860.339583333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1076,8 +1147,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45860.34097222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:11",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1091,8 +1163,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45860.34305555555,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/22/25 08:14",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1106,8 +1179,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45860.34722222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:20",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA008-009",
@@ -1121,8 +1195,9 @@
     "MAXIMO": 5,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45860.35,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV021-022",
@@ -1136,8 +1211,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.35208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -1151,8 +1227,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.36597222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:47",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV015",
@@ -1166,8 +1243,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45860.373611111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 08:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV015",
@@ -1181,8 +1259,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45860.375,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 09:00",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA007",
@@ -1196,8 +1275,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45860.44027777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 10:34",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -1211,8 +1291,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.498611111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 11:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1226,8 +1307,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45860.51180555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 12:17",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1241,8 +1323,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45860.5125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 12:18",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1256,8 +1339,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45860.51388888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 12:20",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -1271,8 +1355,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45860.51458333333,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/22/25 12:21",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -1286,8 +1371,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45860.57638888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 13:50",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA509",
@@ -1301,8 +1387,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.59166666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 14:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA509",
@@ -1316,8 +1403,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45860.592361111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 14:13",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -1331,8 +1419,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45860.59652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 14:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV315",
@@ -1346,8 +1435,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45860.65277777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 15:40",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV315",
@@ -1361,8 +1451,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45860.65416666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 15:42",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -1376,8 +1467,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45860.725,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/22/25 17:24",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -1391,8 +1483,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 65,
-    "FECHA": 45860.731944444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 17:34",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -1406,8 +1499,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45860.82361111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/22/25 19:46",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1421,8 +1515,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.29652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -1436,8 +1531,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.29722222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:08",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1451,8 +1547,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.29791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1466,8 +1563,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.29791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1481,8 +1579,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.30138888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:14",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1496,8 +1595,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45861.302083333336,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/23/25 07:15",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -1511,8 +1611,9 @@
     "MAXIMO": 3,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.302777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1526,8 +1627,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.302777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -1541,8 +1643,9 @@
     "MAXIMO": 10,
     "MINIMO": 10,
     "PIEZAS_RESTANTES": 52,
-    "FECHA": 45861.30347222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:17",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV034",
@@ -1556,8 +1659,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45861.30625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 07:21",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1571,8 +1675,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.33819444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 08:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1586,8 +1691,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45861.34652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 08:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -1601,8 +1707,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.35138888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 08:26",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -1616,8 +1723,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.35208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 08:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1631,8 +1739,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45861.36944444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 08:52",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1646,8 +1755,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 95,
-    "FECHA": 45861.384722222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:14",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1661,8 +1771,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45861.38888888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:20",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV509",
@@ -1676,8 +1787,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.38958333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:21",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1691,8 +1803,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45861.39166666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1706,8 +1819,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.39791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -1721,8 +1835,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45861.415972222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 09:59",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -1736,8 +1851,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45861.41736111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:01",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA811",
@@ -1751,8 +1867,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45861.44097222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA811",
@@ -1766,8 +1883,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45861.441666666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:36",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA021-022",
@@ -1781,8 +1899,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45861.44652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:43",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -1796,8 +1915,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45861.447222222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -1811,8 +1931,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45861.45,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 10:48",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA023-024",
@@ -1826,8 +1947,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45861.46666666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 11:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1841,8 +1963,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.48611111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 11:40",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1856,8 +1979,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.4875,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/23/25 11:42",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -1871,8 +1995,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.48819444444,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/23/25 11:43",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1886,8 +2011,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.495833333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 11:54",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -1901,8 +2027,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45861.504166666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:06",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -1916,8 +2043,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45861.50625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -1931,8 +2059,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45861.506944444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:10",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV002",
@@ -1946,8 +2075,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45861.5125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:18",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1961,8 +2091,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45861.521527777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1976,8 +2107,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 20,
-    "FECHA": 45861.535416666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:51",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -1991,8 +2123,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45861.535416666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 12:51",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -2006,8 +2139,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45861.54791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA023-024",
@@ -2021,8 +2155,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45861.55486111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -2036,8 +2171,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45861.558333333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2051,8 +2187,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45861.580555555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:56",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2066,8 +2203,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45861.58194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2081,8 +2219,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45861.58194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 13:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2096,8 +2235,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.64444444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 15:28",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA092",
@@ -2111,8 +2251,9 @@
     "MAXIMO": 18,
     "MINIMO": 18,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.65069444444,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/23/25 15:37",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2126,8 +2267,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45861.65972222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 15:50",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -2141,8 +2283,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45861.660416666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 15:51",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2156,8 +2299,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.66458333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 15:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -2171,8 +2315,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45861.66458333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 15:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -2186,8 +2331,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 74,
-    "FECHA": 45861.74652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 17:55",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -2201,8 +2347,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45861.85,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 20:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -2216,8 +2363,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45861.93819444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/23/25 22:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2231,8 +2379,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45862.302777777775,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/24/25 07:16",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA509",
@@ -2246,8 +2395,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.30347222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:17",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -2261,8 +2411,9 @@
     "MAXIMO": 10,
     "MINIMO": 10,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.30902777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:25",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -2276,8 +2427,9 @@
     "MAXIMO": 10,
     "MINIMO": 10,
     "PIEZAS_RESTANTES": 28,
-    "FECHA": 45862.30972222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:26",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV007",
@@ -2291,8 +2443,9 @@
     "MAXIMO": 3,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.31041666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA509",
@@ -2306,8 +2459,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45862.313888888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:32",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA007",
@@ -2321,8 +2475,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45862.31597222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 07:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV509",
@@ -2336,8 +2491,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45862.34861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 08:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -2351,8 +2507,9 @@
     "MAXIMO": 10,
     "MINIMO": 10,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.34930555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 08:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV509",
@@ -2366,8 +2523,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45862.35625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 08:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV021-022",
@@ -2381,8 +2539,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45862.37291666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 08:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA609",
@@ -2396,8 +2555,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45862.37777777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:04",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -2411,8 +2571,9 @@
     "MAXIMO": 3,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45862.388194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -2426,8 +2587,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.393055555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:26",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA315",
@@ -2441,8 +2603,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 27,
-    "FECHA": 45862.40277777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:40",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA315",
@@ -2456,8 +2619,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45862.404861111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:43",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA119",
@@ -2471,8 +2635,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45862.40625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:45",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV010-011",
@@ -2486,8 +2651,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.41527777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA509",
@@ -2501,8 +2667,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.415972222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 09:59",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2516,8 +2683,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45862.427777777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 10:16",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2531,8 +2699,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 250,
-    "FECHA": 45862.43472222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 10:26",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2546,8 +2715,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 170,
-    "FECHA": 45862.438888888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 10:32",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA021-022",
@@ -2561,8 +2731,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 250,
-    "FECHA": 45862.467361111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 11:13",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -2576,8 +2747,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.472916666666,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 11:21",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2591,8 +2763,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.472916666666,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/24/25 11:21",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2606,8 +2779,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.47361111111,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/24/25 11:22",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2621,8 +2795,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.47361111111,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/24/25 11:22",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2636,8 +2811,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.47430555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/24/25 11:23",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2651,8 +2827,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.47430555556,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/24/25 11:23",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -2666,8 +2843,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.47430555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 11:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2681,8 +2859,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.475694444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 11:25",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2696,8 +2875,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.489583333336,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 11:45",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2711,8 +2891,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45862.50208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 12:03",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2726,8 +2907,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.51458333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 12:21",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -2741,8 +2923,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.521527777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 12:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV034",
@@ -2756,8 +2939,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45862.524305555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 12:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -2771,8 +2955,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.54861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:10",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -2786,8 +2971,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45862.552083333336,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:15",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV034",
@@ -2801,8 +2987,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.558333333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA034",
@@ -2816,8 +3003,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 260,
-    "FECHA": 45862.57013888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:41",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA119",
@@ -2831,8 +3019,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45862.575694444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:49",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA021-022",
@@ -2846,8 +3035,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.57777777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:52",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA278",
@@ -2861,8 +3051,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 250,
-    "FECHA": 45862.57847222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:53",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2876,8 +3067,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 110,
-    "FECHA": 45862.57986111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:55",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV034",
@@ -2891,8 +3083,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.58125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 13:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2906,8 +3099,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45862.59930555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 14:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA007",
@@ -2921,8 +3115,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.59930555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 14:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -2936,8 +3131,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 26,
-    "FECHA": 45862.61388888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 14:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2951,8 +3147,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45862.64236111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:25",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA007",
@@ -2966,8 +3163,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.64444444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:28",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA007",
@@ -2981,8 +3179,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.64444444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:28",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -2996,8 +3195,9 @@
     "MAXIMO": 7,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 180,
-    "FECHA": 45862.649305555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3011,8 +3211,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45862.65694444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:46",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV021-022",
@@ -3026,8 +3227,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45862.657638888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 15:47",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA008-009",
@@ -3041,8 +3243,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45862.665972222225,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/24/25 15:59",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3056,8 +3259,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45862.70763888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 16:59",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -3071,8 +3275,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 80,
-    "FECHA": 45862.75208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:03",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3086,8 +3291,9 @@
     "MAXIMO": 12,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 120,
-    "FECHA": 45862.763194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3101,8 +3307,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 130,
-    "FECHA": 45862.76527777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3116,8 +3323,9 @@
     "MAXIMO": 18,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45862.76527777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3131,8 +3339,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45862.76666666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3146,8 +3355,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45862.76666666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3161,8 +3371,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45862.777083333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 18:39",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -3176,8 +3387,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45862.79236111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 19:01",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3191,8 +3403,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.8625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:42",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3206,8 +3419,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 110,
-    "FECHA": 45862.86388888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3221,8 +3435,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 120,
-    "FECHA": 45862.864583333336,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:45",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3236,8 +3451,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45862.865277777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:46",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3251,8 +3467,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45862.86875,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:51",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3266,8 +3483,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45862.86944444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:52",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3281,8 +3499,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 130,
-    "FECHA": 45862.87013888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:53",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV092",
@@ -3296,8 +3515,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 130,
-    "FECHA": 45862.87222222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 20:56",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -3311,8 +3531,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 5,
-    "FECHA": 45862.96319444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 23:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3326,8 +3547,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45862.99791666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/24/25 23:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -3341,8 +3563,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.29583333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:06",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -3356,8 +3579,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.29652777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -3371,8 +3595,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.29722222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:08",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3386,8 +3611,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.29861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:10",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3401,8 +3627,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45863.3,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/25/25 07:12",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -3416,8 +3643,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.30069444444,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/25/25 07:13",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -3431,8 +3659,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.30138888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:14",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -3446,8 +3675,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 60,
-    "FECHA": 45863.30416666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:18",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -3461,8 +3691,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.31458333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3476,8 +3707,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.322222222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -3491,8 +3723,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.32430555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:47",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -3506,8 +3739,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.33194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 07:58",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -3521,8 +3755,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.334027777775,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:01",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -3536,8 +3771,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45863.33472222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:02",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -3551,8 +3787,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.339583333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -3566,8 +3803,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.345138888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:17",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3581,8 +3819,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 8,
-    "FECHA": 45863.34722222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:20",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3596,8 +3835,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45863.34930555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3611,8 +3851,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45863.35,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3626,8 +3867,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45863.35,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3641,8 +3883,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45863.35208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3656,8 +3899,9 @@
     "MAXIMO": 0,
     "MINIMO": 0,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45863.35277777778,
-    "ESTATUS": "BAJO VOLUMEN"
+    "FECHA": "07/25/25 08:28",
+    "ESTATUS": "BAJO VOLUMEN",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3671,8 +3915,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45863.353472222225,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:29",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -3686,8 +3931,9 @@
     "MAXIMO": 2,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45863.35625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 08:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -3701,8 +3947,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.388194444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:19",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3716,8 +3963,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.39027777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3731,8 +3979,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.40277777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:40",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3746,8 +3995,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.40833333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:48",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3761,8 +4011,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.4125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:54",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -3776,8 +4027,9 @@
     "MAXIMO": 10,
     "MINIMO": 10,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.41388888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 09:56",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA010-011",
@@ -3791,8 +4043,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.42291666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 10:09",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV023-024",
@@ -3806,8 +4059,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 40,
-    "FECHA": 45863.427083333336,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 10:15",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA021-022",
@@ -3821,8 +4075,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45863.44375,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 10:39",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -3836,8 +4091,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45863.46875,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:15",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3851,8 +4107,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.475,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:24",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -3866,8 +4123,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": "12p",
-    "FECHA": 45863.47638888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:26",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA032",
@@ -3881,8 +4139,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 75,
-    "FECHA": 45863.47777777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:28",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3896,8 +4155,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.47986111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3911,8 +4171,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.48125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3926,8 +4187,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.48125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:33",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3941,8 +4203,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.48263888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -3956,8 +4219,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.48819444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:43",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -3971,8 +4235,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 4,
-    "FECHA": 45863.48888888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -3986,8 +4251,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.489583333336,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:45",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4001,8 +4267,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45863.493055555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 11:50",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA103",
@@ -4016,8 +4283,9 @@
     "MAXIMO": 6,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 200,
-    "FECHA": 45863.50486111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 12:07",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA119",
@@ -4031,8 +4299,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.50833333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 12:12",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -4046,8 +4315,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.51527777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 12:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -4061,8 +4331,9 @@
     "MAXIMO": 4,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.51597222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 12:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -4076,8 +4347,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.51597222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 12:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA021-022",
@@ -4091,8 +4363,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 109,
-    "FECHA": 45863.529861111114,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/25/25 12:43",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV004",
@@ -4106,8 +4379,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.55416666667,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 13:18",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV609",
@@ -4121,8 +4395,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.56180555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 13:29",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV609",
@@ -4136,8 +4411,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.56319444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 13:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4151,8 +4427,9 @@
     "MAXIMO": 14,
     "MINIMO": 14,
     "PIEZAS_RESTANTES": 15,
-    "FECHA": 45863.572916666664,
-    "ESTATUS": "CORTADO"
+    "FECHA": "07/25/25 13:45",
+    "ESTATUS": "CORTADO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV015",
@@ -4166,8 +4443,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 150,
-    "FECHA": 45863.59861111111,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:22",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -4181,8 +4459,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 50,
-    "FECHA": 45863.60208333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:27",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -4196,8 +4475,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 30,
-    "FECHA": 45863.60277777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:28",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA234",
@@ -4211,8 +4491,9 @@
     "MAXIMO": 2,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 35,
-    "FECHA": 45863.604166666664,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:30",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -4226,8 +4507,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.60763888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:35",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV032",
@@ -4241,8 +4523,9 @@
     "MAXIMO": 3,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 11,
-    "FECHA": 45863.60833333333,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 14:36",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA008-009",
@@ -4256,8 +4539,9 @@
     "MAXIMO": 5,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.66805555556,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 16:02",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA008-009",
@@ -4271,8 +4555,9 @@
     "MAXIMO": 5,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45863.66875,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 16:03",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4286,8 +4571,9 @@
     "MAXIMO": 14,
     "MINIMO": 14,
     "PIEZAS_RESTANTES": 25,
-    "FECHA": 45863.74930555555,
-    "ESTATUS": "CRITICO"
+    "FECHA": "07/25/25 17:59",
+    "ESTATUS": "CRITICO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4301,8 +4587,9 @@
     "MAXIMO": 14,
     "MINIMO": 4,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45863.74930555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 17:59",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -4316,8 +4603,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.77569444444,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 18:37",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -4331,8 +4619,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.777083333334,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 18:39",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -4346,8 +4635,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45863.779861111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 18:43",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -4361,8 +4651,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 94,
-    "FECHA": 45863.782638888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 18:47",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GV103",
@@ -4376,8 +4667,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 91,
-    "FECHA": 45863.78472222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 18:50",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4391,8 +4683,9 @@
     "MAXIMO": 10,
     "MINIMO": 3,
     "PIEZAS_RESTANTES": 55,
-    "FECHA": 45863.81319444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 19:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4406,8 +4699,9 @@
     "MAXIMO": 7,
     "MINIMO": 7,
     "PIEZAS_RESTANTES": 90,
-    "FECHA": 45863.81319444445,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 19:31",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4421,8 +4715,9 @@
     "MAXIMO": 6,
     "MINIMO": 6,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.813888888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 19:32",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4436,8 +4731,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 70,
-    "FECHA": 45863.813888888886,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 19:32",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -4451,8 +4747,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 100,
-    "FECHA": 45863.9125,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 21:54",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -4466,8 +4763,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 19,
-    "FECHA": 45863.93263888889,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 22:23",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV219",
@@ -4481,8 +4779,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 37,
-    "FECHA": 45863.93402777778,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 22:25",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA004",
@@ -4496,8 +4795,9 @@
     "MAXIMO": 8,
     "MINIMO": 8,
     "PIEZAS_RESTANTES": 5,
-    "FECHA": 45863.95625,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/25/25 22:57",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -4511,8 +4811,9 @@
     "MAXIMO": 8,
     "MINIMO": 2,
     "PIEZAS_RESTANTES": 130,
-    "FECHA": 45864.02847222222,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/26/25 00:41",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -4526,8 +4827,9 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 3,
-    "FECHA": 45864.029861111114,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/26/25 00:43",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   },
   {
     "LINEA": "GA/GV019",
@@ -4541,7 +4843,8 @@
     "MAXIMO": 4,
     "MINIMO": 1,
     "PIEZAS_RESTANTES": 0,
-    "FECHA": 45864.03055555555,
-    "ESTATUS": "EN PROCESO"
+    "FECHA": "07/26/25 00:44",
+    "ESTATUS": "EN PROCESO",
+    "__EMPTY": ""
   }
 ]
