@@ -3,53 +3,10 @@ const cors = require('cors');
 const sqlite3 = require('sqlite3').verbose();
 
 const app = express();
-app.use(cors({
-  origin: [
-    'http://localhost:3000',
-    'https://criticos-frontend.vercel.app'
-  ]
-}));
+app.use(cors());
 app.use(express.json());
 
 const db = new sqlite3.Database('./criticos.db');
-// ...existing code...
-
-// --- ENDPOINTS CABLES ---
-app.get('/cables', (req, res) => {
-  db.all('SELECT * FROM cables', [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
-  });
-});
-
-app.post('/cables', (req, res) => {
-  const { LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO } = req.body;
-  db.run(
-    'INSERT OR REPLACE INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
-    [LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO],
-    function (err) {
-      if (err) return res.status(500).json({ error: err.message });
-      res.json({ id: this.lastID });
-    }
-  );
-});
-
-// Buscar cable por LCODE (insensible a mayúsculas)
-app.get('/cables/:lcode', (req, res) => {
-  const lcode = (req.params.lcode || '').trim().toUpperCase();
-  db.get('SELECT * FROM cables WHERE UPPER(LCODE) = ?', [lcode], (err, row) => {
-    if (err) return res.status(500).json({ error: err.message });
-    if (!row) return res.status(404).json({ error: 'Cable no encontrado' });
-    res.json(row);
-  });
-});
-
-app.delete('/cables/:lcode', (req, res) => {
-  db.run('DELETE FROM cables WHERE LCODE = ?', [req.params.lcode], function (err) {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json({ deleted: this.changes });
-  });
-});
 
 // --- CREACIÓN DE TABLAS ---
 db.serialize(() => {
@@ -127,14 +84,6 @@ app.post('/usuarios', (req, res) => {
   );
 });
 
-app.get('/usuarios/:gafete', (req, res) => {
-  db.get('SELECT * FROM usuarios WHERE GAFETE = ?', [req.params.gafete], (err, row) => {
-    if (err) return res.status(500).json({ error: err.message });
-    if (!row) return res.status(404).json({ error: 'Usuario no encontrado' });
-    res.json(row);
-  });
-});
-
 app.delete('/usuarios/:gafete', (req, res) => {
   db.run('DELETE FROM usuarios WHERE GAFETE = ?', [req.params.gafete], function (err) {
     if (err) return res.status(500).json({ error: err.message });
@@ -166,6 +115,18 @@ app.delete('/cables/:lcode', (req, res) => {
   db.run('DELETE FROM cables WHERE LCODE = ?', [req.params.lcode], function (err) {
     if (err) return res.status(500).json({ error: err.message });
     res.json({ deleted: this.changes });
+  });
+});
+
+app.post('/cables', (req, res) => {
+  const data = Array.isArray(req.body) ? req.body : [req.body];
+  const stmt = db.prepare('INSERT OR REPLACE INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
+  db.serialize(() => {
+    data.forEach(row => {
+      stmt.run([row.LCODE, row.LINEA, row.CIRCUITO, row.COLOR, row.MAQUINA_CORTE, row.RUTA_CORTE, row.DESTINO, row.VOLUMEN_DIARIO, row.MAXIMO, row.MINIMO]);
+    });
+    stmt.finalize();
+    res.json({ inserted: data.length });
   });
 });
 
@@ -204,6 +165,18 @@ app.delete('/disparos/:id', (req, res) => {
   });
 });
 
+app.post('/disparos', (req, res) => {
+  const data = Array.isArray(req.body) ? req.body : [req.body];
+  const stmt = db.prepare('INSERT INTO disparos (LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
+  db.serialize(() => {
+    data.forEach(row => {
+      stmt.run([row.LINEA, row.LCODE, row.CIRCUITO, row.COLOR, row.MAQUINA_CORTE, row.RUTA_CORTE, row.DESTINO, row.VOLUMEN_DIARIO, row.MAXIMO, row.MINIMO, row.PIEZAS_RESTANTES, row.FECHA, row.ESTATUS]);
+    });
+    stmt.finalize();
+    res.json({ inserted: data.length });
+  });
+});
+
 // --- ENDPOINTS HISTORIAL ---
 app.get('/historial', (req, res) => {
   db.all('SELECT * FROM historial', [], (err, rows) => {
@@ -228,6 +201,18 @@ app.delete('/historial/:id', (req, res) => {
   db.run('DELETE FROM historial WHERE id = ?', [req.params.id], function (err) {
     if (err) return res.status(500).json({ error: err.message });
     res.json({ deleted: this.changes });
+  });
+});
+
+app.post('/historial', (req, res) => {
+  const data = Array.isArray(req.body) ? req.body : [req.body];
+  const stmt = db.prepare('INSERT INTO historial (LINEA, LCODE, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO, PIEZAS_RESTANTES, FECHA, ESTATUS, GAFETE) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
+  db.serialize(() => {
+    data.forEach(row => {
+      stmt.run([row.LINEA, row.LCODE, row.CIRCUITO, row.COLOR, row.MAQUINA_CORTE, row.RUTA_CORTE, row.DESTINO, row.VOLUMEN_DIARIO, row.MAXIMO, row.MINIMO, row.PIEZAS_RESTANTES, row.FECHA, row.ESTATUS, row.GAFETE]);
+    });
+    stmt.finalize();
+    res.json({ inserted: data.length });
   });
 });
 
