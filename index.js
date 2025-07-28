@@ -105,7 +105,7 @@ app.get('/cables', (req, res) => {
 app.post('/cables', (req, res) => {
   const { LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO } = req.body;
   db.run(
-    'INSERT OR REPLACE INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
+    'INSERT INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
     [LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO],
     function (err) {
       if (err) return res.status(500).json({ error: err.message });
@@ -130,7 +130,7 @@ app.delete('/cables', (req, res) => {
 
 app.post('/cables', (req, res) => {
   const data = Array.isArray(req.body) ? req.body : [req.body];
-  const stmt = db.prepare('INSERT OR REPLACE INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
+  const stmt = db.prepare('INSERT INTO cables (LCODE, LINEA, CIRCUITO, COLOR, MAQUINA_CORTE, RUTA_CORTE, DESTINO, VOLUMEN_DIARIO, MAXIMO, MINIMO) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)');
   db.serialize(() => {
     data.forEach(row => {
       stmt.run([row.LCODE, row.LINEA, row.CIRCUITO, row.COLOR, row.MAQUINA_CORTE, row.RUTA_CORTE, row.DESTINO, row.VOLUMEN_DIARIO, row.MAXIMO, row.MINIMO]);
